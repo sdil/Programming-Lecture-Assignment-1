@@ -1,0 +1,49 @@
+<<<<<<< HEAD
+
+
+ ----FaFaFa Garden----
+www.fafafagarden.com
+The best food on Earth
+
+Staff: Unknown
+-------------------------------
+1 Air Sirap            3 pcs	 RM2.00                 RM6.00                
+2 Teh Ais              3 pcs	 RM1.80                 RM5.40                
+3 Barli Ais            5 pcs	 RM2.00                 RM10.00               
+
+-------------------------------
+GST +6%
+Service tax +5%
+Total price after tax is: 21.4
+You paid: 22.0
+The balance is: 0.6000000000000014
+--------------------------------
+Thank you. Please come again.
+
+     FAFAFA GARDEN (M)
+          SDN BHD.   
+=======
+
+
+ ----FaFaFa Garden----
+www.fafafagarden.com
+The best food on Earth
+
+Staff: Unknown
+-------------------------------
+1 Air Sirap            3 pcs	 RM2.00                 RM6.00                
+2 Teh Ais              3 pcs	 RM1.80                 RM5.40                
+3 Barli Ais            5 pcs	 RM2.00                 RM10.00               
+
+-------------------------------
+GST +6%
+Service tax +5%
+Total price after tax is: 21.4
+You paid: 22.0
+The balance is: 0.6000000000000014
+--------------------------------
+Thank you. Please come again.
+
+     FAFAFA GARDEN (M)
+          SDN BHD.   
+>>>>>>> origin/master

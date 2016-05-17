@@ -1,0 +1,8 @@
+Chicken Chop,5.0,10.0,87
+Lamb Chop,8.0,15.0,1000
+Spagetti,4.0,8.0,491
+Chicken Pasta,4.0,8.0,198
+Teh Ais,0.6,1.8,982
+Barli Ais,1.0,2.0,990
+Air Sirap,1.0,2.0,983
+Apple Juice,1.5,3.2,280

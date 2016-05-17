@@ -1,0 +1,47 @@
+<<<<<<< HEAD
+
+
+ ----FaFaFa Garden----
+www.fafafagarden.com
+The best food on Earth
+
+Staff: Saiful Ahmad
+-------------------------------
+1 chicken chop         1 pcs	 RM10.00                RM10.00               
+2 lamb chop            1 pcs	 RM15.00                RM15.00               
+
+-------------------------------
+GST +6%
+Service tax +5%
+Total price after tax is: 25.0
+You paid: RM30.0
+The balance is: RM5.00
+--------------------------------
+Thank you. Please come again.
+
+     FAFAFA GARDEN (M)
+          SDN BHD.   
+=======
+
+
+ ----FaFaFa Garden----
+www.fafafagarden.com
+The best food on Earth
+
+Staff: Saiful Ahmad
+-------------------------------
+1 chicken chop         1 pcs	 RM10.00                RM10.00               
+2 lamb chop            1 pcs	 RM15.00                RM15.00               
+
+-------------------------------
+GST +6%
+Service tax +5%
+Total price after tax is: 25.0
+You paid: RM30.0
+The balance is: RM5.00
+--------------------------------
+Thank you. Please come again.
+
+     FAFAFA GARDEN (M)
+          SDN BHD.   
+>>>>>>> origin/master

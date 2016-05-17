@@ -1,0 +1,16 @@
+Chicken Chop-5,Teh Ais-5
+Lamb Chop-2,Barli Ais-4
+Chicken Chop-3,Lamb Chop-2,Barli Ais-7
+Teh Ais-5
+Air Sirap-3
+Spagetti-4
+Barli Ais-3
+Apple Juice-10
+Apple Juice-5
+Air Sirap-5
+Apple juice-1
+Apple Juice-4,Spagetti-5
+Barli Ais-2
+Air Sirap-2
+Air Sirap-3,Teh Ais-3,Barli Ais-5
+Teh Ais-5,Air Sirap-4

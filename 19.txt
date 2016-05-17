@@ -1,0 +1,45 @@
+<<<<<<< HEAD
+
+
+ ----FaFaFa Garden----
+www.fafafagarden.com
+The best food on Earth
+
+Staff: Aniq Haikal
+-------------------------------
+1 apple juice          5 pcs	 RM3.20                 RM16.00               
+
+-------------------------------
+GST +6%
+Service tax +5%
+Total price after tax is: 16.0
+You paid: RM20.0
+The balance is: RM4.00
+--------------------------------
+Thank you. Please come again.
+
+     FAFAFA GARDEN (M)
+          SDN BHD.   
+=======
+
+
+ ----FaFaFa Garden----
+www.fafafagarden.com
+The best food on Earth
+
+Staff: Aniq Haikal
+-------------------------------
+1 apple juice          5 pcs	 RM3.20                 RM16.00               
+
+-------------------------------
+GST +6%
+Service tax +5%
+Total price after tax is: 16.0
+You paid: RM20.0
+The balance is: RM4.00
+--------------------------------
+Thank you. Please come again.
+
+     FAFAFA GARDEN (M)
+          SDN BHD.   
+>>>>>>> origin/master

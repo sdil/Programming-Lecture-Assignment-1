@@ -1,0 +1,47 @@
+<<<<<<< HEAD
+
+
+ ----FaFaFa Garden----
+www.fafafagarden.com
+The best food on Earth
+
+Staff: Saiful Ahmad
+-------------------------------
+1 Lamb Chop            2 pcs	 RM15.00                RM30.00               
+2 Barli Ais            4 pcs	 RM2.00                 RM8.00                
+
+-------------------------------
+GST +6%
+Service tax +5%
+Total price after tax is: 38.0
+You paid: 100.0
+The balance is: 62.0
+--------------------------------
+Thank you. Please come again.
+
+     FAFAFA GARDEN (M)
+          SDN BHD.   
+=======
+
+
+ ----FaFaFa Garden----
+www.fafafagarden.com
+The best food on Earth
+
+Staff: Saiful Ahmad
+-------------------------------
+1 Lamb Chop            2 pcs	 RM15.00                RM30.00               
+2 Barli Ais            4 pcs	 RM2.00                 RM8.00                
+
+-------------------------------
+GST +6%
+Service tax +5%
+Total price after tax is: 38.0
+You paid: 100.0
+The balance is: 62.0
+--------------------------------
+Thank you. Please come again.
+
+     FAFAFA GARDEN (M)
+          SDN BHD.   
+>>>>>>> origin/master

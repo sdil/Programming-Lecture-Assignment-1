@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+Dr Aznul Qalid,5000.0,Manager,17
+Mohamad Fadhil,0.0,Shareholder,666
+Faez,0.0,Shareholder,999
+Fahmi Adzha,0.0,Shareholder,991
+Mahmoud Abbas,700.0,New Waiter,0
+Saiful Ahmad,800.0,Waiter,1
+Ahmad Albab,700.0,Waiter,2
+Aniq Haikal,750.0,Waiter,3
+Shaik Alif Faisal,900.0,Super Senior Waiter,4
+=======
+Dr Aznul Qalid,5000.0,Manager,17
+Mohamad Fadhil,0.0,Shareholder,666
+Faez,0.0,Shareholder,999
+Fahmi Adzha,0.0,Shareholder,991
+Mahmoud Abbas,700.0,New Waiter,0
+Saiful Ahmad,800.0,Waiter,1
+Ahmad Albab,700.0,Waiter,2
+Aniq Haikal,750.0,Waiter,3
+Shaik Alif Faisal,900.0,Super Senior Waiter,4
+>>>>>>> origin/master

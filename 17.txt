@@ -1,0 +1,43 @@
+<<<<<<< HEAD
+
+
+ ----FaFaFa Garden----
+www.fafafagarden.com
+The best food on Earth
+
+Staff: Mahmoud Abbas
+-------------------------------
+1 air sirap            2 pcs	 RM2.00                 RM4.00                
+
+-------------------------------
+GST +6%
+Service tax +5%
+Total price after tax is: 4.0
+You paid: 10.0
+The balance is: RM6.00--------------------------------
+Thank you. Please come again.
+
+     FAFAFA GARDEN (M)
+          SDN BHD.   
+=======
+
+
+ ----FaFaFa Garden----
+www.fafafagarden.com
+The best food on Earth
+
+Staff: Mahmoud Abbas
+-------------------------------
+1 air sirap            2 pcs	 RM2.00                 RM4.00                
+
+-------------------------------
+GST +6%
+Service tax +5%
+Total price after tax is: 4.0
+You paid: 10.0
+The balance is: RM6.00--------------------------------
+Thank you. Please come again.
+
+     FAFAFA GARDEN (M)
+          SDN BHD.   
+>>>>>>> origin/master
